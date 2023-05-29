@@ -6,7 +6,7 @@ This JavaScript code snippet demonstrates a basic NFT (Non-Fungible Token) manag
 
 The code consists of the following file:
 
-- `script.js`: The JavaScript file containing the code for NFT management.
+- `MusicNFTs.js`: The JavaScript file containing the code for NFT management.
 
 ### NFT Management Functions
 
@@ -21,7 +21,7 @@ The code consists of the following file:
 To execute the code, follow these steps:
 
 1. Open a text editor and create a new file.
-2. Copy and paste the contents of `script.js` into the new file.
+2. Copy and paste the contents of `MusicNFTs.js` into the new file.
 3. Save the file with a `.js` extension (e.g., `nft.js`).
 4. Open a terminal or command prompt and navigate to the directory where you saved the file.
 5. Run the JavaScript file using a JavaScript runtime environment or a Node.js command: `node nft.js`.
@@ -38,6 +38,6 @@ This code is licensed under the MIT License.
 
 ## Acknowledgments
 
-This code was created as an assessment solution to demonstrate NFT management using JavaScript.
+This code was created as an assessment solution to demonstrate NFT Collection using JavaScript as a Metacrafter😎.
 
 Feel free to customize and expand upon this code to meet your specific requirements. It serves as a starting point for building more complex NFT management systems or integrating with blockchain technologies.
