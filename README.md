@@ -1,4 +1,4 @@
-# NFT Management System
+# NFT Collection System
 
 This JavaScript code snippet demonstrates a basic NFT (Non-Fungible Token) management system. It includes functions to mint NFTs, list the NFT metadata, and get the total supply of NFTs.
 
